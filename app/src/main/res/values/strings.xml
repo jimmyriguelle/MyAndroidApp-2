@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyAndroidApp</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_pseudo">Pseudo</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_last_name">Last name</string>
+    <string name="hint_first_name">First name</string>
+    <string name="label_genre">Genre</string>
+    <string name="option_man">Man</string>
+    <string name="option_woman">Woman</string>
+    <string name="option_other">Other</string>
+    <string name="label_date_of_birth">Date of birth</string>
+    <string name="hint_bio">Bio</string>
+    <string name="text_i_agree_with_the_terms">I agree with the terms</string>
+    <string name="btn_submit">Submit</string>
+    <string name="call_the_dev">Call the dev</string>
+</resources>
